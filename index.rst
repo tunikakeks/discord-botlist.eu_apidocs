@@ -8,5 +8,5 @@ The API Documentation about the official discord-botlist.eu API.
 
 How to login
 ===========================
-..codeblock: Javascript
+..codeblock:: Javascript
 `GET https://discord-botlist.eu/api/login/<API-Token here>`
