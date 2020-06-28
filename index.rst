@@ -4,7 +4,7 @@
 discord-botlist.eu API Documentation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-PocketMine-MP is a custom server software for the Minecraft: Bedrock family of Minecraft editions (includes Android, iOS, W10 and others).
+The API Documentation about the official discord-botlist.eu API.
 
 What features does it have?
 ===========================
